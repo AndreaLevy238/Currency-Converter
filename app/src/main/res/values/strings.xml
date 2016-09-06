@@ -4,6 +4,7 @@
     <string name="to">TO</string>
     <string name="usd">USD</string>
     <string name="convert">Convert!</string>
+    <string name="united_states_dollar">United States Dollar</string>
     <string-array name="currency_array">
         <item>AED</item>
         <item>AFN</item>
